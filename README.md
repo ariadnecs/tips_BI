@@ -2,7 +2,7 @@
 
 - atividades de cursos
 - dicas de utilização
-- material complementar de artigos publicados no medium
+- material complementar de artigos publicados no medium: https://ariadnecs.medium.com/
 
 ### Ferramentas
 - Google Sheets
