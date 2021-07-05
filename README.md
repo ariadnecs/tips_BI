@@ -1,2 +1,10 @@
 # Tips_ferramentas_BI
-Dicas de utilização do Google Sheets, Excel, Power BI e Google Data Studio.
+
+- atividades de cursos
+- dicas de utilização
+- material complementar de artigos publicados no medium
+
+### Ferramentas
+- Google Sheets
+- Google Data Studio
+
