@@ -1,2 +1,2 @@
-# Tips_sheets_excel_powerbi
-Dicas de utilização do Google Sheets, Excel e Power BI.
+# Tips_ferramentas_BI
+Dicas de utilização do Google Sheets, Excel, Power BI e Google Data Studio.
